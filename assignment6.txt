@@ -1,4 +1,4 @@
-1. Write a java code with the class named ‘acad’ and a method ‘main’. Hardcode the program
+1. Write a java code with the class named â€˜acadâ€™ and a method â€˜mainâ€™. Hardcode the program
    with two integers and print the sum of those two.
 
 
@@ -44,8 +44,8 @@ class acad
  public static void sum()
 {
 Scanner sc=new Scanner(System.in);
-int i=sc.nextInt();
-int k=sc.nextInt();
+int integer1=sc.nextInt();
+int integer2=sc.nextInt();
 System.out.println(integer1+integer2);
 }
 public static void main(String[] args)
